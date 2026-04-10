@@ -6,11 +6,10 @@ Desenvolvida como projeto prático do curso.
 ## Tecnologias
 - HTML5
 - CSS3
-- JavaScript (vanilla)
+- JavaScript 
 
 ## Como visualizar
 Abra o arquivo `index.html` no navegador
-ou acesse: [link do GitHub Pages aqui]
 
 ## Seções
 - **Banner** — imagem de destaque com texto sobreposto
