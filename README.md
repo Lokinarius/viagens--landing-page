@@ -10,7 +10,7 @@ Desenvolvida como projeto prático do curso.
 
 ## Como visualizar
 Abra o arquivo `index.html` no navegador
-ou acessar a página: https://lokinarius.github.io/viagens--landing-page/
+ou acesse a página: https://lokinarius.github.io/viagens--landing-page/
 
 ## Seções
 - **Banner** — imagem de destaque com texto sobreposto
