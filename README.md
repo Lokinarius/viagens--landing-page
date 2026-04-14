@@ -1,4 +1,4 @@
-# Viagem no Tempo 🏛️
+# Viagem no Tempo
 
 Landing page de agência de viagens com foco em civilizações antigas.
 Desenvolvida como projeto prático do curso.
